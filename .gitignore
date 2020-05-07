@@ -1,0 +1,8 @@
+.DS_Store
+build
+a.out.dSYM
+a.out
+_output
+_plots
+.vscode
+pyclaw.log
